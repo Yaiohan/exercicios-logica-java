@@ -1,2 +1,10 @@
 # exercicios-logica-java
-Projetos iniciais em Java para prática de lógica de programação, incluindo condicionais, operadores lógicos e estruturas de repetição.
+Este projeto contém programas simples para aprender e praticar:
+
+Entrada e saída de dados (Scanner)
+
+Estruturas de decisão (if e else)
+
+Laços de repetição (for e while)
+
+O objetivo é treinar lógica de programação e entender como construir programas básicos em Java.
